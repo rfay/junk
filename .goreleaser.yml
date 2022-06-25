@@ -1,0 +1,5 @@
+release:
+  prerelease: auto
+  github:
+    owner: "{{ .Env.GITHUB_REPOSITORY_OWNER }}"
+    name: junk
